@@ -10,3 +10,5 @@ $ choose react-ts
 ### requirements
 
 Node.js version >=12.0.0.
+
+### memo
